@@ -29,7 +29,7 @@ else if(randomNumver1<randomNumber2){
     document.querySelector("h1").innerHTML = "Player 2 Wins!🎉";
 }
 else{
-    document.querySelector("h1").innerHTML = "🎲It's a Deaw🎲";
+    document.querySelector("h1").innerHTML = "🎲It's a Draw🎲";
 }
 
 
