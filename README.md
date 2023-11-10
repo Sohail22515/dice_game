@@ -1,5 +1,5 @@
 # dice_game
-<img src="" alt="website look">
+<img src="/images/web_look.png" alt="website look">
 ## Hello contributers!
 I have made a dilce game in which on refreast the webpage dices show a random value and the the player who haves the high score at every re-fresh wins the game.
 
